@@ -1,0 +1,22 @@
+.admindashboard{
+    /* width: 50%; */
+    margin: auto;
+    display: block;
+    padding-left: 100px;
+    
+}
+.admin{
+    float: left;
+    padding-left: 50px;
+    position: relative;
+}
+.student{
+    float: left;
+    padding-left: 50px;
+    position: relative;
+}
+.result{
+    float: left;
+    padding-left: 50px;
+    position: relative;
+}

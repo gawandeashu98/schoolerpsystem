@@ -1,0 +1,12 @@
+.login{
+    width: 55%;
+    margin: auto;
+    display: block;
+}
+.admin{
+    float: left;
+}
+.student{
+    float: left;
+    /* margin-left: 50px; */
+}

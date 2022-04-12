@@ -1,0 +1,18 @@
+.sutdentRegForm{
+    width: 50%;
+    margin: auto;
+    display: block;
+}
+.header{
+    text-align: center;
+    font-family: Arial;
+}
+.container{
+    /* text-align: center; */
+    /* left: 0; */
+    /* display: block; */
+    position: absolute;
+    width: 20%;
+    height: 550px;
+    border-right: 1px solid rgb(219, 219, 219);
+}

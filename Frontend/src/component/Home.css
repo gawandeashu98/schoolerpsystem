@@ -1,0 +1,29 @@
+.aboutus{
+    float: left;
+    width: 500px;
+    color: black;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 700px;
+    margin-top: 50px;
+    border: rgb(250, 170, 22);
+    border-style: ridge;
+    margin-right: 100px;
+}
+.content{
+    margin-top: 200px;
+}
+.carousel-inner{
+    position: relative;
+    font-family: Arial;
+}
+
+/* .row {
+    width: 70%;
+    padding: 20px;
+    display: inline-block;
+  } */
+
+  

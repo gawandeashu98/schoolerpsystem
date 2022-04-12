@@ -1,0 +1,31 @@
+.container{
+    position: absolute;
+    width: 20%;
+    height: 750px;
+    border-right: 1px solid black;
+}
+.main{
+    text-align: center;
+}
+.main1{
+    width: 60%;
+    margin: auto;
+    display: block;
+    margin-left: 24%;
+}
+.main2{
+    width: 70%;
+    margin: auto;
+    display: block;
+    margin-left: 24%;
+}
+.main3{
+    width: 80%;
+    margin: auto;
+    display: block;
+}
+.main4{
+    width: 60%;
+    margin: auto;
+    display: block;
+}

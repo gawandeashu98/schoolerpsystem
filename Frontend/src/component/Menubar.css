@@ -1,0 +1,19 @@
+@media screen and (min-width:768px){
+    .nevbar-nav{
+        float:none;
+        text-align:center;
+    }
+    .nevbar-nav li{
+        display:inline-block;
+        float:none;
+    }
+}
+.navbar-nav > li{
+    padding-left:14.7px;
+    padding-right:14.7px;
+  }
+ 
+.menubar{
+    font-size: large;
+    margin: auto;
+}
